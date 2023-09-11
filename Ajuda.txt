@@ -1,0 +1,17 @@
+Arquivos de ajuda:
+
+1 - Basicamente esse é um projeto onde deveriamos criar um site de um petshop em HTML;
+2 - No site pode ver varia páginas, cada uma com uma função;
+3 - Home: resumo sobre o site;
+4 - Pefil: algumas informações quando logado no site:
+    Edendereços: cadastrados ou cadastro de endereços;
+    PETS: area onde estão os pet cadastrados ao você poderá cadastrar algum pet;
+    Sair da conta: use essa opção para verificar o formulário de criação de conta, login e troca de senha (por e-mail);
+5 - Produtos: basicamente uma página para mostrar os produtos do site:
+    Aqui você poderá comprar o produto diretamente ou acessa-lo para informações mais detalhadas.
+6 - Serviços: aqui você poderá selecionar entra 2 serviços:
+    Banho e tosa: agende ou marque uma tele-busca para o seu pet;
+    Hotel pet: agende ou marque uma tele-busca para o seu.
+7 - PETS: basicamente a mesma coisa da opção mostrada no 4 item acima:
+    Aqui você poderá visuzalizare os pets cadastrados ou cadastrar algum pet.
+8 - Rodepé: aqui você encontrará algumas informações de contato e o nome do desenvolvedor do site.
