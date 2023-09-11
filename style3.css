@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a:hover{
+    opacity: 0.7;
+}
+
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+nav{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #663600;
+    height: 15vh;
+}
+
+.input-box input{
+    width: 60%;
+    height: 100%;
+    background-color: #ffe3c3;
+    border: none;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #663600;
+    padding: 20px 45px 20px 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main{
+    background-color: #ffb968;
+    background-size: cover;
+    height: 92vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+}
+
+.list li{
+    letter-spacing: 3px;
+    margin-left: 32px;
+}
+.list li a{
+    color: #ffb968;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+img{
+    width: 80px;
+    max-width: 100%;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+
+p{
+    font-size: 30px;
+    width: 600px;
+    color: #000000; 
+    text-align: justify;
+    
+}
+main p{
+    position: absolute;
+    top: 170px;
+    left: 110px;
+    font-weight: bold;
+}
+.cad-pet {
+    position: absolute;
+    top: 250px;
+    left: 90px;
+    letter-spacing: 3px;
+    margin-left: 32px;
+    color: #663600;
+}
+
+.cad-pet h1{
+    position: relative;
+}
+
+.cad-pet .input-box{
+    margin-top: 10px;
+}
+
+.cad-pet .input-box .btn{
+    margin-top: 20px;
+}
+.cad-pet .btn{
+    position: absolute;
+    left: 45px;
+    width: 50%;
+    height: 45px;
+    background: #663600;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #ffe3c3;
+    font-weight: 600;
+}
+.pet-cat{
+    position: relative;
+    top: -300px;
+    left: 700px;
+}
+.pet-cat a{
+    display: flex;
+    flex-direction: column;
+    font-weight: lighter;
+    font-size: x-large;
+    text-decoration: none;
+    color: #663600;
+}
+.cad-pets{
+    position: relative;   
+    text-align: center;
+    top: 150px;
+}
+.cad-pets .voltar-pet{
+    width: 20%;
+    height: 45px;
+    background: #663600;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #ffe3c3;
+    font-weight: 600;
+}
+.cad-pets .voltar-pet a{
+    text-decoration: none;
+    color: #ffb968;
+}
+footer{
+    background-color: #663600;
+    
+}
+footer .final img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 60px;
+    margin: 1px;
+}
+.final h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    position: relative;
+    top: 1px;
+    left: 150px;
+    color: #ffb968;
+}
+.final .base h1{
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
